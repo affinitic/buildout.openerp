@@ -1,0 +1,11 @@
+.installed.cfg
+addons-at/
+bin/
+develop-eggs/
+downloads/
+etc/
+include/
+lib/
+local/
+parts/
+upgrade.py
